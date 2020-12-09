@@ -1,3 +1,5 @@
-module mvc
+module github.com/luoiori/gomode
 
 go 1.14
+
+require github.com/gin-gonic/gin v1.6.3
